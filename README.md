@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/VTU30488/Applied_Programming_Skills/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VTU30488/Applied_Programming_Skills/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0217-contains-duplicate](https://github.com/VTU30488/Applied_Programming_Skills/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/VTU30488/Applied_Programming_Skills/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/VTU30488/Applied_Programming_Skills/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/VTU30488/Applied_Programming_Skills/tree/master/0977-squares-of-a-sorted-array) |
@@ -23,10 +24,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/VTU30488/Applied_Programming_Skills/tree/master/0075-sort-colors) |
+| [0217-contains-duplicate](https://github.com/VTU30488/Applied_Programming_Skills/tree/master/0217-contains-duplicate) |
 | [0977-squares-of-a-sorted-array](https://github.com/VTU30488/Applied_Programming_Skills/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/VTU30488/Applied_Programming_Skills/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/VTU30488/Applied_Programming_Skills/tree/master/0219-contains-duplicate-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/VTU30488/Applied_Programming_Skills/tree/master/0387-first-unique-character-in-a-string) |
 ## Sliding Window
