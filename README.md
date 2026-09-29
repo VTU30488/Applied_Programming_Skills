@@ -119,4 +119,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/VTU30488/Applied_Programming_Skills/tree/master/0142-linked-list-cycle-ii) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/VTU30488/Applied_Programming_Skills/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/VTU30488/Applied_Programming_Skills/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/VTU30488/Applied_Programming_Skills/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/VTU30488/Applied_Programming_Skills/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
